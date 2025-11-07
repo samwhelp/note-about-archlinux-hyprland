@@ -34,7 +34,6 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Hyprland 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
-| [Debian Hyprland 探索筆記](https://samwhelp.github.io/note-about-debian-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-debian-hyprland) |
 | [Ubuntu Hyprland 探索筆記](https://samwhelp.github.io/note-about-ubuntu-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-hyprland) |
 | [Fedora Hyprland 探索筆記](https://samwhelp.github.io/note-about-fedora-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-fedora-hyprland) |
 
